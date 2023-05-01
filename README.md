@@ -1,8 +1,6 @@
-<h1 align="center">Winner-Pokemon-Prediction</h1>
+<h1 align="center">Pokémon Winner Prediction</h1>
 
-<p align="center">
-<img width="1000" height="400" alt="image" src="https://user-images.githubusercontent.com/131211098/235377790-ca4eea88-eec6-44a5-b4fc-9a1a64c64927.png" class="center">
-</p>
+<img width="1000" height="500" alt="image" src="https://user-images.githubusercontent.com/131211098/235413833-c11077a1-848d-4a5b-be16-c71d257ec232.png">
 
 This project aim is to use machine learning for predicting the winner of Pokémon among player choices. Potential audiences are the general public interested in playing the game and company management.
 
