@@ -39,3 +39,5 @@ The accuracy of this model exceeds 95% when both Pokémon names are inputted int
 
 ### Contributors
 Aneshaa Kasula, Viritha Vanama, Andrew Kehl  and Harshini Gadige
+
+#### This repository contains Jupyter notebooks focused on each stage of CRISP-DM such as data coolection, EDA visualizations, data modeling, demo using Python
